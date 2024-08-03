@@ -179,7 +179,7 @@ const Login = () => {
     <div className="loginComponent">
       <div className="loginHeader mobileLogo">
         <img className="loginpageImage" src="/totalityCorpImage.jpg" />
-        <h1>Totality Corp</h1>
+        <h1>CLAW Enterprices</h1>
       </div>
       <div className="actionsSection">
         <div className="signupSection">{renderSignupSection()}</div>
