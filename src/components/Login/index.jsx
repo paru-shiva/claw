@@ -185,7 +185,7 @@ const Login = () => {
         <div className="signupSection">{renderSignupSection()}</div>
         <div className="loginHeader desktopLogo">
           <img className="loginpageImage" src="/totalityCorpImage.jpg" />
-          <h1>Totality Corp</h1>
+          <h1>Enterprices</h1>
         </div>
         <div className="loginSection">{renderLoginSection()}</div>
       </div>
